@@ -1,27 +1,14 @@
-# ISP – Rise in Gold 🌟
+# Rise in Gold – ISP Gombe
 
-**Rise in Gold** est une activité officielle d’accueil des nouveaux étudiants de l’ISP.
-Elle vise à inspirer l’excellence, la vision et l’intégration universitaire.
+Site institutionnel officiel de l’activité **Accueil des Nouveaux**.
 
-## 🌍 Site officiel
-🔗 https://ispriseingold.github.io/ISP-RiseInGold/
+## Objectif
+Valoriser l’intégration universitaire à travers une image
+prestigieuse, moderne et structurée.
 
-## 🎯 Objectifs
-- Accueillir les nouveaux étudiants
-- Promouvoir l’excellence académique
-- Renforcer la cohésion étudiante
-- Valoriser l’image de l’ISP
+## Technologies
+HTML5 – CSS3 – JavaScript  
+Compatible GitHub Pages
 
-## 🛠️ Technologies utilisées
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
-
-## 👥 Organisation
-- Ministère de la Communication
-- Ministère de la Culture
-- Comité d’organisation ISP
-
-## 📄 Licence
-Projet académique – Usage éducatif
+## Auteur
+Ministère de la Communication – ISP Gombe

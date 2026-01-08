@@ -83,3 +83,69 @@ footer {
   margin-top: 40px;
   font-size: 14px;
 }
+
+
+/* BOUTON AIDE */
+#helpBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: gold;
+  color: black;
+  border: none;
+  padding: 12px 18px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 25px;
+  z-index: 1000;
+}
+
+#helpBtn:hover {
+  background: #d4af37;
+}
+
+/* BOX AIDE */
+.help-box {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 320px;
+  background: #111;
+  border: 1px solid gold;
+  padding: 20px;
+  display: none;
+  z-index: 1000;
+}
+
+.help-box p {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.help-box ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.help-box ul li {
+  margin-bottom: 10px;
+}
+
+.help-box a {
+  color: gold;
+  text-decoration: none;
+}
+
+.help-box a:hover {
+  text-decoration: underline;
+}
+
+#closeHelp {
+  margin-top: 10px;
+  background: black;
+  color: gold;
+  border: 1px solid gold;
+  padding: 8px;
+  cursor: pointer;
+  width: 100%;
+}

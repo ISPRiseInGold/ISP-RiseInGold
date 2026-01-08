@@ -99,3 +99,21 @@ footer {
     font-size: 44px;
   }
 }
+/* BOUTON PREMIUM */
+.btn {
+  display: inline-block;
+  padding: 14px 36px;
+  margin-top: 30px;
+  border-radius: 30px;
+  background: linear-gradient(135deg, var(--neon), var(--gold));
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.btn:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 15px 40px rgba(106,76,255,0.35);
+}
